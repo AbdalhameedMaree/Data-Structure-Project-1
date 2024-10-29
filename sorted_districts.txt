@@ -1,0 +1,14 @@
+Gaza District, Population = 70000
+Jabalia ,20000
+Beit Hanoon ,50000
+Hebron District, Population = 200000
+Dura ,100000
+Halhul ,40000
+Jenin District, Population = 92100
+Jaba ,7000
+Yabad ,50
+Jenin ,92000
+Ramallah District, Population = 900
+OO ,900
+Tulkarm District, Population = 83462347
+Deir Al Ghusoon ,83462347

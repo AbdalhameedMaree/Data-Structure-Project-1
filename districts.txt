@@ -1,0 +1,8 @@
+Hebron|Dura|100000
+Hebron|Halhul|40000
+Jenin|Jaba|7000
+Jenin|Yabad|31000
+Jenin|Jenin|92000
+Gaza|Jabalia|20000
+Gaza|Beit Hanoon|50000
+Tulkarm|Deir Al Ghusoon|83462347
